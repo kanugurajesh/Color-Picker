@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    height: 15vh;
+    background-color: #FFFFFF;
+    border-bottom: 2px solid #ccc;
+}
+
+header form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+#color {
+    outline: none;
+    width: 10vw;
+    height: 5vh;
+    border: 1px solid #D1D5DB;
+}
+
+#value {
+    width: 35vw;
+    height: 5vh;
+    background-color: white;
+    /* remove the default border and add my own border */
+    border: none;
+    border: 1px solid #D1D5DB;
+
+}
+
+#select {
+    height: 5vh;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #D1D5DB;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.color-scheme {
+    height: 70vh;
+}
+
+.color-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: blue;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    background-color: #FFFFFF;
+    border-top: 2px solid #ccc;
+}
