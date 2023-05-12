@@ -1,12 +1,15 @@
+// get element by id
 let colorBar = document.getElementById("color")
 let selectBar = document.getElementById("select")
 let main = document.getElementById("main")
 let form = document.getElementById("form")
 let number = document.getElementById("number")
 
+// initialize variables
 let color;
 let select;
 
+// event listener
 form.onsubmit = (e) => {
     e.preventDefault();
     const color = colorBar.value.slice(1);
@@ -35,4 +38,5 @@ form.onsubmit = (e) => {
         });
 };
 
+// click event on page load to initialize color picker
 document.getElementById("value").click()
