@@ -5,14 +5,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <title>color picker</title>
     <link rel="stylesheet" href="index.css">
 </head>
 
 <body>
     <header>
         <form action="" id="form">
-            <input type="color" name="" id="color" value="#ff0000" required>
+            <input type="color" name="" id="color" value="#ff0000" required">
             <select name="" id="select" required>
                 <option value="monochrome">monochrome</option>
                 <option value="monochrome-dark">monochrome-dark</option>
@@ -23,14 +27,15 @@
                 <option value="triad">triad</option>
                 <option value="quad">quad</option>
             </select>
-            <input type="submit" value="Get color scheme" id="value">
+            <input type="number" name="" id="number" placeholder="color count" value="5">
+            <input type="submit" value="Get color" id="value">
         </form>
     </header>
     <main id="main">
     </main>
     <footer>
         <!-- add a copyright symbol -->
-        <p>&copy; 2021</p>
+        <p>&copy; owned by Rajesh; 2023</p>
     </footer>
 </body>
 <script src="index.js"></script>
