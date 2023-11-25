@@ -1,2 +1,1 @@
-# color_picker
-building a color picker
+# Color Picker
