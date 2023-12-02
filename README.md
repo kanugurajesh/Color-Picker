@@ -1,3 +1,9 @@
+#### ⭐ star this repo if you like it
+
+<div align="center">
+  <img src="https://github.com/kanugurajesh/Color-Picker/assets/120458029/39a4091e-0d3f-4956-a29c-6c40d23a308a" alt="" width=150 height=150>
+</div>
+
 # Color Picker
 
-Select from a wide variety of colors and it has the ability to select the different types of colors in a single color
+Choose from a diverse spectrum of colors with the unique capability to select multiple color variations within a single hue. 🌈✨
