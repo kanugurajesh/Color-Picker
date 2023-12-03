@@ -44,3 +44,25 @@ Choose from a diverse spectrum of colors with the unique capability to select mu
 ## Demo
 
 ![color picker - Google Chrome 2023-12-03 00-13-04](https://github.com/kanugurajesh/Color-Picker/assets/120458029/e15da533-f6e3-4968-b732-4f628eaca0d3)
+
+## Tech Stack
+
+- Html
+- Css
+- Javascript
+- Api
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajeshportfolio.me/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanugu-aba8a3254/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/exploringengin1)
+
+## Authors
+
+- [@kanugurajesh](https://github.com/kanugurajesh)
+
+## Support
+
+For support, you can buy me a coffee
+
+<a href="https://www.buymeacoffee.com/kanugurajen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
